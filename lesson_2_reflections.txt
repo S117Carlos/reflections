@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a object for version control, and its needed to start tracking files in your repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+in the staging area yo can reset the file of you dont want to commit, otherwise in the working directory just show the
+changes made it.
+It offers a big value because you can tracked your files in the way you want to be commited.

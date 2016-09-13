@@ -7,3 +7,11 @@ How is the staging area different from the working directory and the repository?
 in the staging area yo can reset the file of you dont want to commit, otherwise in the working directory just show the
 changes made it.
 It offers a big value because you can tracked your files in the way you want to be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Comparing the files that are in it and checking its a logical change per commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to try new features, or merge some branches to combine the functionality. Branches would help in the way to modify your project without change the master branch.
